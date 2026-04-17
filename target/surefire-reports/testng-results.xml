@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-04-12T23:38:31 IST" name="Suite" finished-at="2026-04-12T23:38:39 IST" duration-ms="8025">
+  <suite started-at="2026-04-16T20:03:41 IST" name="Suite" finished-at="2026-04-16T20:04:02 IST" duration-ms="20884">
     <groups>
     </groups>
-    <test started-at="2026-04-12T23:38:31 IST" name="Chrome" finished-at="2026-04-12T23:38:39 IST" duration-ms="7903">
+    <test started-at="2026-04-16T20:03:41 IST" name="Chrome" finished-at="2026-04-16T20:04:02 IST" duration-ms="20842">
       <class name="testCase.testCase_001">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCase.testCase_001@1722011b]" started-at="2026-04-12T23:38:31 IST" name="setup" finished-at="2026-04-12T23:38:36 IST" duration-ms="5132" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCase.testCase_001@b4711e2]" started-at="2026-04-16T20:03:41 IST" name="setup" finished-at="2026-04-16T20:03:51 IST" duration-ms="9369" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,19 +23,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testCase()[pri:0, instance:testCase.testCase_001@1722011b]" started-at="2026-04-12T23:38:36 IST" name="testCase" finished-at="2026-04-12T23:38:38 IST" duration-ms="1737" status="PASS">
+        <test-method signature="testCase()[pri:0, instance:testCase.testCase_001@b4711e2]" started-at="2026-04-16T20:03:52 IST" name="testCase" finished-at="2026-04-16T20:03:55 IST" duration-ms="3074" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.testCase_001@1722011b]" started-at="2026-04-12T23:38:38 IST" name="tearDown" finished-at="2026-04-12T23:38:39 IST" duration-ms="891" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.testCase_001@b4711e2]" started-at="2026-04-16T20:03:55 IST" name="tearDown" finished-at="2026-04-16T20:04:02 IST" duration-ms="7385" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCase.testCase_001 -->
     </test> <!-- Chrome -->
-    <test started-at="2026-04-12T23:38:31 IST" name="Edge" finished-at="2026-04-12T23:38:39 IST" duration-ms="8025">
+    <test started-at="2026-04-16T20:03:41 IST" name="Edge" finished-at="2026-04-16T20:04:02 IST" duration-ms="20884">
       <class name="testCase.testCase_001">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCase.testCase_001@7674b62c]" started-at="2026-04-12T23:38:31 IST" name="setup" finished-at="2026-04-12T23:38:36 IST" duration-ms="5133" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCase.testCase_001@e383572]" started-at="2026-04-16T20:03:41 IST" name="setup" finished-at="2026-04-16T20:03:51 IST" duration-ms="9905" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -51,11 +51,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testCase()[pri:0, instance:testCase.testCase_001@7674b62c]" started-at="2026-04-12T23:38:36 IST" name="testCase" finished-at="2026-04-12T23:38:38 IST" duration-ms="1807" status="PASS">
+        <test-method signature="testCase()[pri:0, instance:testCase.testCase_001@e383572]" started-at="2026-04-16T20:03:52 IST" name="testCase" finished-at="2026-04-16T20:03:56 IST" duration-ms="4311" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.testCase_001@7674b62c]" started-at="2026-04-12T23:38:38 IST" name="tearDown" finished-at="2026-04-12T23:38:39 IST" duration-ms="980" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.testCase_001@e383572]" started-at="2026-04-16T20:03:56 IST" name="tearDown" finished-at="2026-04-16T20:04:02 IST" duration-ms="6225" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
